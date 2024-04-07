@@ -1,2 +1,0 @@
-msgid "IDS_GERCAPPREM"
-msgstr "山泥若"
