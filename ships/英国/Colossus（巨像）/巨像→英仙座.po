@@ -1,0 +1,8 @@
+msgid "IDS_PBSA528"
+msgstr "英仙座"
+
+msgid "IDS_PBSA528_FULL"
+msgstr "英仙座"
+
+msgid "IDS_PBUH723_HULL_COLOSSUS"
+msgstr "英仙座"
