@@ -1,2 +1,0 @@
-msgid "IDS_DA_RONG"
-msgstr "邓世昌"
