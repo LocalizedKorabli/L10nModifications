@@ -1,0 +1,1130 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_PJSA002"
+msgstr "凤"
+
+msgid "IDS_PJSA006"
+msgstr "鹞"
+
+msgid "IDS_PJSA009"
+msgstr "枭"
+
+msgid "IDS_PJSA011"
+msgstr "龙"
+
+msgid "IDS_PJSA012"
+msgstr "鹬（旧）"
+
+msgid "IDS_PJSA015"
+msgstr "鹩"
+
+msgid "IDS_PJSA017"
+msgstr "鹫"
+
+msgid "IDS_PJSA104"
+msgstr "凤"
+
+msgid "IDS_PJSA106"
+msgstr "枭"
+
+msgid "IDS_PJSA108"
+msgstr "鹬"
+
+msgid "IDS_PJSA110"
+msgstr "鹫"
+
+msgid "IDS_PJSA111"
+msgstr "鹮"
+
+msgid "IDS_PJSA507"
+msgstr "鸾"
+
+msgid "IDS_PJSA518"
+msgstr "鸾"
+
+msgid "IDS_PJSA598"
+msgstr "鸾B"
+
+msgid "IDS_PJSA908"
+msgstr "鹳"
+
+msgid "IDS_PJSA910"
+msgstr "鹩"
+
+msgid "IDS_PJSA917"
+msgstr "[鹫]"
+
+msgid "IDS_PJSB001"
+msgstr "鲑"
+
+msgid "IDS_PJSB003"
+msgstr "鲛"
+
+msgid "IDS_PJSB006"
+msgstr "魟"
+
+msgid "IDS_PJSB007"
+msgstr "鲤"
+
+msgid "IDS_PJSB008"
+msgstr "鳗"
+
+msgid "IDS_PJSB010"
+msgstr "鲨"
+
+msgid "IDS_PJSB011"
+msgstr "鲐"
+
+msgid "IDS_PJSB013"
+msgstr "鳐"
+
+msgid "IDS_PJSB018"
+msgstr "鲸"
+
+msgid "IDS_PJSB021"
+msgstr "鲟"
+
+msgid "IDS_PJSB111"
+msgstr "鹏"
+
+msgid "IDS_PJSB208"
+msgstr "鲶"
+
+msgid "IDS_PJSB209"
+msgstr "鳢"
+
+msgid "IDS_PJSB210"
+msgstr "鳣"
+
+msgid "IDS_PJSB506"
+msgstr "鲭"
+
+msgid "IDS_PJSB507"
+msgstr "鲔"
+
+msgid "IDS_PJSB508"
+msgstr "鲣"
+
+msgid "IDS_PJSB509"
+msgstr "鲲"
+
+msgid "IDS_PJSB510"
+msgstr "鲙"
+
+msgid "IDS_PJSB517"
+msgstr "螯"
+
+msgid "IDS_PJSB519"
+msgstr "鲃"
+
+msgid "IDS_PJSB526"
+msgstr "鳌"
+
+msgid "IDS_PJSB529"
+msgstr "鲯"
+
+msgid "IDS_PJSB539"
+msgstr "鳇"
+
+msgid "IDS_PJSB549"
+msgstr "鮣"
+
+msgid "IDS_PJSB559"
+msgstr "鲯B"
+
+msgid "IDS_PJSB700"
+msgstr "ARP鲸"
+
+msgid "IDS_PJSB705"
+msgstr "ARP鲤"
+
+msgid "IDS_PJSB706"
+msgstr "ARP驼"
+
+msgid "IDS_PJSB707"
+msgstr "ARP鲮"
+
+msgid "IDS_PJSB708"
+msgstr "ARP鱿"
+
+msgid "IDS_PJSB799"
+msgstr "ARP驼"
+
+msgid "IDS_PJSB801"
+msgstr "鲑"
+
+msgid "IDS_PJSB802"
+msgstr "鲑"
+
+msgid "IDS_PJSB906"
+msgstr "鳌2"
+
+msgid "IDS_PJSB916"
+msgstr "鳌3"
+
+msgid "IDS_PJSB918"
+msgstr "[鲸]"
+
+msgid "IDS_PJSB999"
+msgstr "鹏"
+
+msgid "IDS_PJSC004"
+msgstr "狐"
+
+msgid "IDS_PJSC005"
+msgstr "狼"
+
+msgid "IDS_PJSC006"
+msgstr "狼"
+
+msgid "IDS_PJSC007"
+msgstr "犹"
+
+msgid "IDS_PJSC008"
+msgstr "鬣"
+
+msgid "IDS_PJSC009"
+msgstr "狮"
+
+msgid "IDS_PJSC012"
+msgstr "虎"
+
+msgid "IDS_PJSC013"
+msgstr "熊"
+
+msgid "IDS_PJSC014"
+msgstr "獚"
+
+msgid "IDS_PJSC015"
+msgstr "豺"
+
+msgid "IDS_PJSC018"
+msgstr "貂"
+
+msgid "IDS_PJSC026"
+msgstr "貆"
+
+msgid "IDS_PJSC034"
+msgstr "象"
+
+msgid "IDS_PJSC035"
+msgstr "獾"
+
+msgid "IDS_PJSC037"
+msgstr "鼠"
+
+msgid "IDS_PJSC038"
+msgstr "犬"
+
+msgid "IDS_PJSC205"
+msgstr "豼"
+
+msgid "IDS_PJSC206"
+msgstr "麂"
+
+msgid "IDS_PJSC207"
+msgstr "獭"
+
+msgid "IDS_PJSC208"
+msgstr "犰"
+
+msgid "IDS_PJSC209"
+msgstr "狒"
+
+msgid "IDS_PJSC210"
+msgstr "狍"
+
+msgid "IDS_PJSC503"
+msgstr "鹿"
+
+msgid "IDS_PJSC505"
+msgstr "狸"
+
+msgid "IDS_PJSC507"
+msgstr "狲"
+
+msgid "IDS_PJSC510"
+msgstr "猉"
+
+msgid "IDS_PJSC517"
+msgstr "犮"
+
+msgid "IDS_PJSC519"
+msgstr "AL猉"
+
+msgid "IDS_PJSC520"
+msgstr "狤"
+
+msgid "IDS_PJSC590"
+msgstr "狤B"
+
+msgid "IDS_PJSC598"
+msgstr "犬B"
+
+msgid "IDS_PJSC610"
+msgstr "獚"
+
+msgid "IDS_PJSC705"
+msgstr "ARP鬣"
+
+msgid "IDS_PJSC707"
+msgstr "ARP狳"
+
+msgid "IDS_PJSC708"
+msgstr "ARP獒"
+
+msgid "IDS_PJSC709"
+msgstr "ARP犰"
+
+msgid "IDS_PJSC717"
+msgstr "凤凰"
+
+msgid "IDS_PJSC718"
+msgstr "ARP犮"
+
+msgid "IDS_PJSC719"
+msgstr "獴"
+
+msgid "IDS_PJSC727"
+msgstr "昆仑"
+
+msgid "IDS_PJSC737"
+msgstr "ARP狏"
+
+msgid "IDS_PJSC799"
+msgstr "ARP獒"
+
+msgid "IDS_PJSC810"
+msgstr "象P"
+
+msgid "IDS_PJSC837"
+msgstr "鼠"
+
+msgid "IDS_PJSC838"
+msgstr "鼠"
+
+msgid "IDS_PJSC918"
+msgstr "猑2"
+
+msgid "IDS_PJSC919"
+msgstr "猑3"
+
+msgid "IDS_PJSC934"
+msgstr "[象]"
+
+msgid "IDS_PJSD001"
+msgstr "枳"
+
+msgid "IDS_PJSD002"
+msgstr "藤"
+
+msgid "IDS_PJSD003"
+msgstr "柳"
+
+msgid "IDS_PJSD004"
+msgstr "樱"
+
+msgid "IDS_PJSD005"
+msgstr "松（旧）"
+
+msgid "IDS_PJSD006"
+msgstr "梅（旧）"
+
+msgid "IDS_PJSD007"
+msgstr "桐（旧）"
+
+msgid "IDS_PJSD010"
+msgstr "萩（旧）"
+
+msgid "IDS_PJSD012"
+msgstr "芒"
+
+msgid "IDS_PJSD014"
+msgstr "枳L"
+
+msgid "IDS_PJSD017"
+msgstr "杨"
+
+msgid "IDS_PJSD024"
+msgstr "菖"
+
+msgid "IDS_PJSD025"
+msgstr "枫"
+
+msgid "IDS_PJSD026"
+msgstr "枫R"
+
+msgid "IDS_PJSD105"
+msgstr "松"
+
+msgid "IDS_PJSD106"
+msgstr "桐"
+
+msgid "IDS_PJSD107"
+msgstr "蕾"
+
+msgid "IDS_PJSD108"
+msgstr "杏"
+
+msgid "IDS_PJSD111"
+msgstr "苽"
+
+msgid "IDS_PJSD206"
+msgstr "梅"
+
+msgid "IDS_PJSD207"
+msgstr "梿"
+
+msgid "IDS_PJSD208"
+msgstr "萩"
+
+msgid "IDS_PJSD209"
+msgstr "榎"
+
+msgid "IDS_PJSD210"
+msgstr "葫"
+
+msgid "IDS_PJSD219"
+msgstr "蕉"
+
+msgid "IDS_PJSD503"
+msgstr "Disabled: 柳"
+
+msgid "IDS_PJSD504"
+msgstr "Disabled: 樱"
+
+msgid "IDS_PJSD507"
+msgstr "椿"
+
+msgid "IDS_PJSD510"
+msgstr "葵"
+
+msgid "IDS_PJSD518"
+msgstr "柊"
+
+msgid "IDS_PJSD528"
+msgstr "HSF菽II"
+
+msgid "IDS_PJSD596"
+msgstr "茜B"
+
+msgid "IDS_PJSD598"
+msgstr "柊B"
+
+msgid "IDS_PJSD706"
+msgstr "茜"
+
+msgid "IDS_PJSD708"
+msgstr "HSF菽"
+
+msgid "IDS_PJSD718"
+msgstr "AL莲"
+
+msgid "IDS_PJSD719"
+msgstr "荷"
+
+msgid "IDS_PJSD803"
+msgstr "柳"
+
+msgid "IDS_PJSD889"
+msgstr "星际蕉"
+
+msgid "IDS_PJSD912"
+msgstr "[芒]"
+
+msgid "IDS_PJUH003_UJI_A"
+msgstr "鼠(A)"
+
+msgid "IDS_PJUH004_UJI_B"
+msgstr "鼠(B)"
+
+msgid "IDS_PJUH101_TACHIBANA_1912"
+msgstr "枳"
+
+msgid "IDS_PJUH111_CHIKUMA_1912"
+msgstr "獾(A)"
+
+msgid "IDS_PJUH112_CHIKUMA_1918"
+msgstr "獾(B)"
+
+msgid "IDS_PJUH121_MIKASA_1905"
+msgstr "鲐"
+
+msgid "IDS_PJUH131_SAKURA"
+msgstr "枳"
+
+msgid "IDS_PJUH201_UMIKAZE_1911"
+msgstr "藤(A)"
+
+msgid "IDS_PJUH202_UMIKAZE_1925"
+msgstr "藤(B)"
+
+msgid "IDS_PJUH211_KAWACHI_1912"
+msgstr "鲑(A)"
+
+msgid "IDS_PJUH212_KAWACHI_1919"
+msgstr "鲑(B)"
+
+msgid "IDS_PJUH213_KAWACHI_1912_CS"
+msgstr "鲑(A)"
+
+msgid "IDS_PJUH214_KAWACHI_1919_CS"
+msgstr "鲑(B)"
+
+msgid "IDS_PJUH221_TATSUTA_1919"
+msgstr "豺(A)"
+
+msgid "IDS_PJUH222_TATSUTA_1937"
+msgstr "豺(B)"
+
+msgid "IDS_PJUH231_WAKATAKE_1923"
+msgstr "菖(A)"
+
+msgid "IDS_PJUH232_WAKATAKE_1925"
+msgstr "菖(B)"
+
+msgid "IDS_PJUH241_KATORI"
+msgstr "鹿"
+
+msgid "IDS_PJUH301_ISOKAZE_1917"
+msgstr "柳(A)"
+
+msgid "IDS_PJUH302_ISOKAZE_1925"
+msgstr "柳(B)"
+
+msgid "IDS_PJUH303_ISOKAZE_1917_CS"
+msgstr "柳(A)"
+
+msgid "IDS_PJUH304_ISOKAZE_1925_CS"
+msgstr "柳(B)"
+
+msgid "IDS_PJUH305_ISOKAZE_1917"
+msgstr "柳(A)"
+
+msgid "IDS_PJUH306_ISOKAZE_1925"
+msgstr "柳(B)"
+
+msgid "IDS_PJUH311_MYOGI_1912"
+msgstr "鲛(A)"
+
+msgid "IDS_PJUH312_MYOGI_1919"
+msgstr "鲛(B)"
+
+msgid "IDS_PJUH313_MYOGI_1932"
+msgstr "鲛(C)"
+
+msgid "IDS_PJUH321_KUMA_1920"
+msgstr "熊(A)"
+
+msgid "IDS_PJUH322_KUMA_1938"
+msgstr "熊(B)"
+
+msgid "IDS_PJUH323_KUMA_C"
+msgstr "熊(C)"
+
+msgid "IDS_PJUH331_YUBARI_1944"
+msgstr "狐"
+
+msgid "IDS_PJUH332_YUBARI_1944_CS"
+msgstr "狐"
+
+msgid "IDS_PJUH341_ISHIZUCHI_1921"
+msgstr "鳗"
+
+msgid "IDS_PJUH352_HOSHO_1939"
+msgstr "凤(A)"
+
+msgid "IDS_PJUH353_HOSHO_1941"
+msgstr "凤(B)"
+
+msgid "IDS_PJUH354_HOSHO_1939"
+msgstr "凤(A)"
+
+msgid "IDS_PJUH355_HOSHO_1941"
+msgstr "凤(B)"
+
+msgid "IDS_PJUH401_MINEKADZE_1920"
+msgstr "樱(A)"
+
+msgid "IDS_PJUH402_MINEKADZE_1938"
+msgstr "樱(B)"
+
+msgid "IDS_PJUH403_MINEKADZE_1920"
+msgstr "樱(A)"
+
+msgid "IDS_PJUH404_MINEKADZE_1938"
+msgstr "樱(B)"
+
+msgid "IDS_PJUH405_C5_HULL_STOCK"
+msgstr "豼(A)"
+
+msgid "IDS_PJUH406_C5_HULL_TOP"
+msgstr "豼(B)"
+
+msgid "IDS_PJUH411_KONGO_1941"
+msgstr "鲤(B)"
+
+msgid "IDS_PJUH412_KONGO_1942"
+msgstr "鲤(C)"
+
+msgid "IDS_PJUH413_KONGO_1913"
+msgstr "鲤(A)"
+
+msgid "IDS_PJUH421_IWAKI_1944"
+msgstr "貆"
+
+msgid "IDS_PJUH431_FURUTAKA_1926"
+msgstr "狼(A)"
+
+msgid "IDS_PJUH432_FURUTAKA_1930"
+msgstr "狼(B)"
+
+msgid "IDS_PJUH433_FURUTAKA_1941"
+msgstr "狼(C)"
+
+msgid "IDS_PJUH434_YAHAGI"
+msgstr "狸"
+
+msgid "IDS_PJUH441_ZUIHO_1940"
+msgstr "鹞(A)"
+
+msgid "IDS_PJUH442_ZUIHO_1942"
+msgstr "鹞(B)"
+
+msgid "IDS_PJUH443_ZUIHO_1944"
+msgstr "鹞(C)"
+
+msgid "IDS_PJUH451_KAMIKAZE_1935"
+msgstr "杨"
+
+msgid "IDS_PJUH461_TRUE_KAMIKAZE"
+msgstr "枫"
+
+msgid "IDS_PJUH462_CAMO_KAMIKAZE"
+msgstr "枫"
+
+msgid "IDS_PJUH495_KONGOU"
+msgstr "ARP鲤"
+
+msgid "IDS_PJUH496_KIRISHIMA"
+msgstr "ARP驼"
+
+msgid "IDS_PJUH497_HARUNA"
+msgstr "ARP鲮"
+
+msgid "IDS_PJUH498_HIEI_ARPEGGIO"
+msgstr "ARP鱿"
+
+msgid "IDS_PJUH500_HULL_BLACK_SHINONOME"
+msgstr "茜B"
+
+msgid "IDS_PJUH501_HATSUHARU_1935"
+msgstr "梅(A)"
+
+msgid "IDS_PJUH502_HATSUHARU_1945"
+msgstr "梅(B)"
+
+msgid "IDS_PJUH503_HATSUHARU_1935"
+msgstr "梅(A)"
+
+msgid "IDS_PJUH504_HATSUHARU_1945"
+msgstr "梅(B)"
+
+msgid "IDS_PJUH505_C6_HULL_STOCK"
+msgstr "麂(A)"
+
+msgid "IDS_PJUH506_C6_HULL_TOP"
+msgstr "麂(B)"
+
+msgid "IDS_PJUH511_FUSO_1941"
+msgstr "魟(A)"
+
+msgid "IDS_PJUH512_FUSO_1943"
+msgstr "魟(B)"
+
+msgid "IDS_PJUH513_FUSO_1919"
+msgstr "魟(A)"
+
+msgid "IDS_PJUH514_MUTSU"
+msgstr "鲭"
+
+msgid "IDS_PJUH521_MUTSUKI_1926"
+msgstr "松(A)"
+
+msgid "IDS_PJUH522_MUTSUKI_1939"
+msgstr "松(B)"
+
+msgid "IDS_PJUH523_MUTSUKI_1942"
+msgstr "松(C)"
+
+msgid "IDS_PJUH524_MUTSUKI_1926"
+msgstr "松(A)"
+
+msgid "IDS_PJUH525_MUTSUKI_1939"
+msgstr "松(B)"
+
+msgid "IDS_PJUH526_SHINO"
+msgstr "茜"
+
+msgid "IDS_PJUH531_AOBA_1942"
+msgstr "犹(A)"
+
+msgid "IDS_PJUH532_AOBA_1943"
+msgstr "犹(B)"
+
+msgid "IDS_PJUH541_RYUJO"
+msgstr "枭(A)"
+
+msgid "IDS_PJUH542_RYUJO"
+msgstr "枭(B)"
+
+msgid "IDS_PJUH543_RYUJO"
+msgstr "枭(C)"
+
+msgid "IDS_PJUH544_KAGA"
+msgstr "鸾"
+
+msgid "IDS_PJUH545_RYUJO"
+msgstr "枭(A)"
+
+msgid "IDS_PJUH546_RYUJO"
+msgstr "枭(B)"
+
+msgid "IDS_PJUH547_RYUJO"
+msgstr "枭(C)"
+
+msgid "IDS_PJUH548_KAGA"
+msgstr "鸾"
+
+msgid "IDS_PJUH550_ISE"
+msgstr "鳌"
+
+msgid "IDS_PJUH551_ISE_SECOND"
+msgstr "鳌"
+
+msgid "IDS_PJUH552_ISE_THIRD"
+msgstr "鳌"
+
+msgid "IDS_PJUH601_KAGERO_1943"
+msgstr "萩(A)"
+
+msgid "IDS_PJUH602_KAGERO_1941"
+msgstr "萩(B)"
+
+msgid "IDS_PJUH603_KAGERO_1945"
+msgstr "萩(C)"
+
+msgid "IDS_PJUH604_KAGERO_1943"
+msgstr "萩(A)"
+
+msgid "IDS_PJUH605_KAGERO_1941"
+msgstr "萩(B)"
+
+msgid "IDS_PJUH606_HYUGA"
+msgstr "螯"
+
+msgid "IDS_PJUH607_MAYA2"
+msgstr "犮"
+
+msgid "IDS_PJUH608_TOKACHI"
+msgstr "狲"
+
+msgid "IDS_PJUH609_C7_HULL_STOCK"
+msgstr "獭(A)"
+
+msgid "IDS_PJUH610_C7_HULL_TOP"
+msgstr "獭(B)"
+
+msgid "IDS_PJUH611_NAGATO_1941"
+msgstr "鲨(A)"
+
+msgid "IDS_PJUH612_NAGATO_1944"
+msgstr "鲨(B)"
+
+msgid "IDS_PJUH613_NAGATO_1933"
+msgstr "鲨(A)"
+
+msgid "IDS_PJUH614_ASHITAKA"
+msgstr "鲔"
+
+msgid "IDS_PJUH615_YUDACHI"
+msgstr "椿"
+
+msgid "IDS_PJUH621_MOGAMI_1935"
+msgstr "狮(A)"
+
+msgid "IDS_PJUH622_MOGAMI_1943"
+msgstr "狮(B)"
+
+msgid "IDS_PJUH623_MOGAMI_1944"
+msgstr "狮(C)"
+
+msgid "IDS_PJUH632_HIRYU_1942"
+msgstr "龙(A)"
+
+msgid "IDS_PJUH633_HIRYU_1945"
+msgstr "龙(B)"
+
+msgid "IDS_PJUH641_D7_HULL_STOCK_2"
+msgstr "梿(A)"
+
+msgid "IDS_PJUH642_D7_HULL_TOP_2"
+msgstr "梿(B)"
+
+msgid "IDS_PJUH643_D7_HULL_STOCK"
+msgstr "蕾(A)"
+
+msgid "IDS_PJUH644_D7_HULL_TOP"
+msgstr "蕾(B)"
+
+msgid "IDS_PJUH700_HULL_KIKAKU"
+msgstr "鹳"
+
+msgid "IDS_PJUH701_FUBUKI_1942"
+msgstr "桐(A)"
+
+msgid "IDS_PJUH702_FUBUKI_1944"
+msgstr "桐(B)"
+
+msgid "IDS_PJUH703_FUBUKI_1943"
+msgstr "桐(C)"
+
+msgid "IDS_PJUH704_D8_HULL_STOCK_2"
+msgstr "杏(A)"
+
+msgid "IDS_PJUH705_D8_HULL_TOP_2"
+msgstr "杏(B)"
+
+msgid "IDS_PJUH706_FUBUKI_1942"
+msgstr "桐(A)"
+
+msgid "IDS_PJUH707_FUBUKI_1944"
+msgstr "桐(B)"
+
+msgid "IDS_PJUH708_YUKIKAZE"
+msgstr "AL莲"
+
+msgid "IDS_PJUH709_HAREKAZE_2"
+msgstr "HSF菽II"
+
+msgid "IDS_PJUH711_AMAGI_1941"
+msgstr "鳐(A)"
+
+msgid "IDS_PJUH712_AMAGI_1944"
+msgstr "鳐(B)"
+
+msgid "IDS_PJUH713_AMAGI_1926"
+msgstr "鳐(A)"
+
+msgid "IDS_PJUH717_HULL_MAYA"
+msgstr "ARP犮"
+
+msgid "IDS_PJUH718_HULL_BLACK_KAGA"
+msgstr "鸾B"
+
+msgid "IDS_PJUH720_C8_HULL_STOCK"
+msgstr "犰(A)"
+
+msgid "IDS_PJUH721_MYOKO_1936"
+msgstr "鬣(A)"
+
+msgid "IDS_PJUH722_MYOKO_1941"
+msgstr "鬣(B)"
+
+msgid "IDS_PJUH723_MYOKO_1945"
+msgstr "鬣(C)"
+
+msgid "IDS_PJUH724_C8_HULL_TOP"
+msgstr "犰(B)"
+
+msgid "IDS_PJUH725_B8_HULL_STOCK"
+msgstr "鲶(A)"
+
+msgid "IDS_PJUH726_B8_HULL_TOP"
+msgstr "鲶(B)"
+
+msgid "IDS_PJUH741_KITAKAMI_1941"
+msgstr "獚"
+
+msgid "IDS_PJUH751_ZUIKAKU_1941"
+msgstr "鹬(A)"
+
+msgid "IDS_PJUH752_ZUIKAKU_1943"
+msgstr "鹬(B)"
+
+msgid "IDS_PJUH753_ZUIKAKU_1944"
+msgstr "鹬(C)"
+
+msgid "IDS_PJUH754_SHOKAKU_1941"
+msgstr "鹬(A)"
+
+msgid "IDS_PJUH755_SHOKAKU_1944"
+msgstr "鹬(B)"
+
+msgid "IDS_PJUH761_ATAGO_1944"
+msgstr "犬"
+
+msgid "IDS_PJUH762_BLACK_ATAGO"
+msgstr "犬B"
+
+msgid "IDS_PJUH771_TONE"
+msgstr "貂"
+
+msgid "IDS_PJUH772_KII"
+msgstr "鲣"
+
+msgid "IDS_PJUH773_ASASHIO"
+msgstr "柊"
+
+msgid "IDS_PJUH774_BLACK_ASASHIO"
+msgstr "柊B"
+
+msgid "IDS_PJUH775_TONE"
+msgstr "猑2"
+
+msgid "IDS_PJUH776_TONE"
+msgstr "猑3"
+
+msgid "IDS_PJUH781_HAREKAZE_STOCK"
+msgstr "菽 1-4"
+
+msgid "IDS_PJUH782_HAREKAZE_MID"
+msgstr "菽 4-10"
+
+msgid "IDS_PJUH783_HAREKAZE_TOP"
+msgstr "菽 11-12"
+
+msgid "IDS_PJUH793_TAKAO"
+msgstr "ARP獒"
+
+msgid "IDS_PJUH794_NACHI"
+msgstr "ARP狏"
+
+msgid "IDS_PJUH795_MYOKO"
+msgstr "ARP鬣"
+
+msgid "IDS_PJUH796_HAGURO"
+msgstr "ARP犰"
+
+msgid "IDS_PJUH797_ASHIGARA"
+msgstr "ARP狳"
+
+msgid "IDS_PJUH798_YELLOW_DRAGON"
+msgstr "凤凰"
+
+msgid "IDS_PJUH799_BLUE_DRAGON"
+msgstr "昆仑"
+
+msgid "IDS_PJUH800_HULL_IWAMI"
+msgstr "鲯"
+
+msgid "IDS_PJUH801_SHIMAKAZE_1943"
+msgstr "芒(A)"
+
+msgid "IDS_PJUH802_SHIMAKAZE_1944"
+msgstr "芒"
+
+msgid "IDS_PJUH803_HIZEN"
+msgstr "鲃"
+
+msgid "IDS_PJUH804_HULL_AZUR_AZUMA"
+msgstr "AL猉"
+
+msgid "IDS_PJUH805_C9_HULL_STOCK"
+msgstr "狒(A)"
+
+msgid "IDS_PJUH806_C9_HULL_TOP"
+msgstr "狒(B)"
+
+msgid "IDS_PJUH807_HULL_DAISEN"
+msgstr "鳇"
+
+msgid "IDS_PJUH808_HULL_KITAKAZE_PR"
+msgstr "星际蕉"
+
+msgid "IDS_PJUH809_HULL_TSURUGI"
+msgstr "鮣"
+
+msgid "IDS_PJUH810_HULL_BLACK_IWAMI"
+msgstr "鲯B"
+
+msgid "IDS_PJUH811_IBUKI_1944"
+msgstr "虎(A)"
+
+msgid "IDS_PJUH812_IBUKI_1945"
+msgstr "虎(B)"
+
+msgid "IDS_PJUH813_B9_HULL_STOCK"
+msgstr "鳢(A)"
+
+msgid "IDS_PJUH814_B9_HULL_TOP"
+msgstr "鳢(B)"
+
+msgid "IDS_PJUH821_TAIHO_1944"
+msgstr "鹩(A)"
+
+msgid "IDS_PJUH822_TAIHO_1945"
+msgstr "鹩(B)"
+
+msgid "IDS_PJUH831_IZUMO_1938"
+msgstr "鲟(A)"
+
+msgid "IDS_PJUH832_IZUMO_1942"
+msgstr "鲟(B)"
+
+msgid "IDS_PJUH833_IZUMO_1944"
+msgstr "鲟(C)"
+
+msgid "IDS_PJUH840_MINEGUMO"
+msgstr "荷"
+
+msgid "IDS_PJUH841_D9_HULL_STOCK_2"
+msgstr "榎(A)"
+
+msgid "IDS_PJUH842_D9_HULL_TOP_2"
+msgstr "榎(B)"
+
+msgid "IDS_PJUH843_D9_HULL_STOCK_3"
+msgstr "蕉(A)"
+
+msgid "IDS_PJUH844_D9_HULL_TOP_3"
+msgstr "蕉(B)"
+
+msgid "IDS_PJUH845_CHIKUMA_2_HYB"
+msgstr "獴"
+
+msgid "IDS_PJUH900_CV11_HULL_STOCK"
+msgstr "鹮"
+
+msgid "IDS_PJUH902_D10_HULL_STOCK"
+msgstr "葫"
+
+msgid "IDS_PJUH903_TST_ZAO"
+msgstr "象P"
+
+msgid "IDS_PJUH904_YOSHINO"
+msgstr "狤"
+
+msgid "IDS_PJUH905_HAYATE"
+msgstr "葵"
+
+msgid "IDS_PJUH906_KITAKAMI"
+msgstr "獚"
+
+msgid "IDS_PJUH907_HULL_ARP_YAMATO"
+msgstr "鲸"
+
+msgid "IDS_PJUH908_HULL_BLACK_YOSHINO"
+msgstr "狤B"
+
+msgid "IDS_PJUH909_C10_HULL_STOCK"
+msgstr "狍"
+
+msgid "IDS_PJUH910_B10_HULL_STOCK"
+msgstr "鳣"
+
+msgid "IDS_PJUH911_YAMATO_1944"
+msgstr "鲸"
+
+msgid "IDS_PJUH912_MUSASHI"
+msgstr "鲲"
+
+msgid "IDS_PJUH914_HULL_TAIHO"
+msgstr "鹩"
+
+msgid "IDS_PJUH921_TENGU_1944"
+msgstr "象"
+
+msgid "IDS_PJUH930_D11_HULL_STOCK"
+msgstr "苽"
+
+msgid "IDS_PJUH931_HAKURYU_1942"
+msgstr "鹫"
+
+msgid "IDS_PJUH932_HAKURYU"
+msgstr "鹫"
+
+msgid "IDS_PJUH933_SATSUMA"
+msgstr "鹏"
+
+msgid "IDS_PJUH972_AZUMAYA"
+msgstr "猉"
+
+msgid "IDS_PJUH974_HAKU"
+msgstr "鹫"
+
+msgid "IDS_PJUH975_ZAO"
+msgstr "象"
+
+msgid "IDS_PJUH976_SHIM"
+msgstr "芒"
+
+msgid "IDS_PJUH978_YAM"
+msgstr "鲸"
+
+msgid "IDS_PJUH979_BB10_HULL_SHIKISHIMA"
+msgstr "鲙"
+
+msgid "IDS_PJUH980_SATSUMA"
+msgstr "鹏"
+
+# 莱服新船
+msgid "IDS_PJSA206"
+msgstr "瑞"
+
+msgid "IDS_PJSA208"
+msgstr "翼"
+
+msgid "IDS_PJSA210"
+msgstr "鹄"
+
+msgid "IDS_PJSC111"
+msgstr "巅"
+
+msgid "IDS_PJSC506"
+msgstr "麋"
+
+msgid "IDS_PJSD610"
+msgstr "燕"
+
+msgid "IDS_PJSD808"
+msgstr "杏CLR"
+
+msgid "IDS_PJUH507_CV6_HULL_STOCK"
+msgstr "瑞(A)"
+
+msgid "IDS_PJUH508_CV6_HULL_TOP"
+msgstr "瑞(B)"
+
+msgid "IDS_PJUH509_HULL_OYODO"
+msgstr "麋"
+
+msgid "IDS_PJUH728_CV8_HULL_STOCK"
+msgstr "翼(A)"
+
+msgid "IDS_PJUH729_CV8_HULL_TOP"
+msgstr "翼(B)"
+
+msgid "IDS_PJUH730_HULL_COLORFUL_AKIZUKI"
+msgstr "杏CLR"
+
+msgid "IDS_PJUH913_CV10_HULL_STOCK"
+msgstr "鹄"
+
+msgid "IDS_PJUH915_HULL_NATSUKAZE"
+msgstr "燕"
+
+msgid "IDS_PJUH934_C11_HULL_STOCK"
+msgstr "巅"

@@ -1,0 +1,131 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_PZSC101"
+msgstr "津安"
+
+msgid "IDS_PZSC105"
+msgstr "巴海"
+
+msgid "IDS_PZSC108"
+msgstr "会海"
+
+msgid "IDS_PZSC110"
+msgstr "临海"
+
+msgid "IDS_PZSC506"
+msgstr "御海"
+
+msgid "IDS_PZSC509"
+msgstr "连海"
+
+msgid "IDS_PZSD104"
+msgstr "沈安"
+
+msgid "IDS_PZSD106"
+msgstr "顺安"
+
+msgid "IDS_PZSD108"
+msgstr "久安"
+
+msgid "IDS_PZSD110"
+msgstr "越安"
+
+msgid "IDS_PZSD111"
+msgstr "春安"
+
+msgid "IDS_PZSD506"
+msgstr "襄安"
+
+msgid "IDS_PZSD508"
+msgstr "雒安"
+
+msgid "IDS_PZSD510"
+msgstr "旅安"
+
+msgid "IDS_PZSD518"
+msgstr "汾安"
+
+msgid "IDS_PZSD598"
+msgstr "雒安B"
+
+msgid "IDS_PZUH001_C1_HULL_A"
+msgstr "津安(A)"
+
+msgid "IDS_PZUH301_D4_HULL_A"
+msgstr "沈安(A)"
+
+msgid "IDS_PZUH302_D4_HULL_B"
+msgstr "沈安(B)"
+
+msgid "IDS_PZUH403_C5_HULL_A"
+msgstr "巴海(A)"
+
+msgid "IDS_PZUH404_C5_HULL_B"
+msgstr "巴海(B)"
+
+msgid "IDS_PZUH501_ANSHAN"
+msgstr "襄安"
+
+msgid "IDS_PZUH502_D6_HULL_A"
+msgstr "顺安(A)"
+
+msgid "IDS_PZUH503_D6_HULL_B"
+msgstr "顺安(B)"
+
+msgid "IDS_PZUH504_HUANGHE"
+msgstr "御海"
+
+msgid "IDS_PZUH701_LO_YANG"
+msgstr "雒安"
+
+msgid "IDS_PZUH702_D8_HULL_A"
+msgstr "久安(A)"
+
+msgid "IDS_PZUH703_D8_HULL_B"
+msgstr "久安(B)"
+
+msgid "IDS_PZUH707_FEN"
+msgstr "汾安"
+
+msgid "IDS_PZUH709_HULL_BLACK_LOYANG"
+msgstr "雒安B"
+
+msgid "IDS_PZUH711_C8_HULL_B"
+msgstr "会海(B)"
+
+msgid "IDS_PZUH712_C8_HULL_A"
+msgstr "会海(A)"
+
+msgid "IDS_PZUH805_DALIAN"
+msgstr "连海"
+
+msgid "IDS_PZUH900_D11_HULL_STOCK"
+msgstr "春安"
+
+msgid "IDS_PZUH901_D10_HULL_A"
+msgstr "越安"
+
+msgid "IDS_PZUH902_C10_HULL_STOCK"
+msgstr "临海"
+
+msgid "IDS_PZUH903_HULL_LUSHUN"
+msgstr "旅安"
+
+# 莱服新船
+msgid "IDS_PZSB610"
+msgstr "逶迤"
+
+msgid "IDS_PZUH904_CHANGZHENG"
+msgstr "逶迤"
