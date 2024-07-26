@@ -20,12 +20,6 @@ msgstr "约书亚•汉弗莱斯"
 msgid "IDS_PASD610"
 msgstr "福雷斯特•谢尔曼"
 
-msgid "IDS_PGSA108"
-msgstr "奥古斯特•冯•帕塞瓦尔"
-
-msgid "IDS_PGSA110"
-msgstr "曼弗雷德•冯•里希特霍芬"
-
 msgid "IDS_PGSA506"
 msgstr "埃里希•勒文哈尔特"
 
@@ -46,9 +40,6 @@ msgstr "莱伯勒希特•马斯"
 
 msgid "IDS_PGSD111"
 msgstr "奥托•韦迪根"
-
-msgid "IDS_PGSD208"
-msgstr "古斯塔夫•尤里乌斯•梅克尔"
 
 msgid "IDS_PGSD209"
 msgstr "菲利克斯•舒尔茨"
