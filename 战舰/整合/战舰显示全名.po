@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_PASA510"
+msgstr "富兰克林•罗斯福"
+
+msgid "IDS_PASD111"
+msgstr "约书亚•汉弗莱斯"
+
+msgid "IDS_PASD610"
+msgstr "福雷斯特•谢尔曼"
+
+msgid "IDS_PGSA108"
+msgstr "奥古斯特•冯•帕塞瓦尔"
+
+msgid "IDS_PGSA110"
+msgstr "曼弗雷德•冯•里希特霍芬"
+
+msgid "IDS_PGSA506"
+msgstr "埃里希•勒文哈尔特"
+
+msgid "IDS_PGSA610"
+msgstr "马克斯•殷麦曼"
+
+msgid "IDS_PGSB203"
+msgstr "冯•德•坦恩"
+
+msgid "IDS_PGSB506"
+msgstr "艾特尔•弗里德里希"
+
+msgid "IDS_PGSD106"
+msgstr "恩斯特•盖德"
+
+msgid "IDS_PGSD107"
+msgstr "莱伯勒希特•马斯"
+
+msgid "IDS_PGSD111"
+msgstr "奥托•韦迪根"
+
+msgid "IDS_PGSD208"
+msgstr "古斯塔夫•尤里乌斯•梅克尔"
+
+msgid "IDS_PGSD209"
+msgstr "菲利克斯•舒尔茨"
+
+msgid "IDS_PGSD516"
+msgstr "卡尔•冯•勋伯格"
+
+msgid "IDS_PHSC101"
+msgstr "范•金斯伯根"
+
+msgid "IDS_PHSC104"
+msgstr "德•鲁伊特"
+
+msgid "IDS_PHSC109"
+msgstr "约翰•德•维特"
+
+msgid "IDS_PHSC509"
+msgstr "范•斯佩克"
+
+msgid "IDS_PISB106"
+msgstr "安德烈亚•多里亚"
+
+msgid "IDS_PISB107"
+msgstr "弗朗切斯科•卡拉乔洛"
+
+msgid "IDS_PISB108"
+msgstr "维托里奥•维内托"
+
+msgid "IDS_PISB110"
+msgstr "克里斯托弗•哥伦布"
+
+msgid "IDS_PISB505"
+msgstr "尤里乌斯•恺撒"
+
+msgid "IDS_PISB510"
+msgstr "鲁杰罗•迪•劳里亚"
+
+msgid "IDS_PISB519"
+msgstr "朱塞佩•威尔第"
+
+msgid "IDS_PISC102"
+msgstr "尼诺•比西奥"
+
+msgid "IDS_PISC104"
+msgstr "阿尔贝托•迪•朱桑诺"
+
+msgid "IDS_PISC105"
+msgstr "莱蒙多•蒙德库克利"
+
+msgid "IDS_PISC517"
+msgstr "弗朗切斯科•费鲁乔"
+
+msgid "IDS_PISD103"
+msgstr "纳扎里奥•萨乌罗"
+
+msgid "IDS_PISD107"
+msgstr "卢卡•塔里戈"
+
+msgid "IDS_PISD108"
+msgstr "维托里奥•库尼贝尔蒂"
+
+msgid "IDS_PISD110"
+msgstr "阿蒂略•莱戈洛"
+
+msgid "IDS_PRSC109"
+msgstr "迪米特里•顿斯科伊"
+
+msgid "IDS_PRSC210"
+msgstr "亚历山大•涅夫斯基"
+
+msgid "IDS_PRSC508"
+msgstr "米哈伊尔•库图佐夫"
+
+msgid "IDS_PRSC538"
+msgstr "彼得罗•巴格拉季昂"
+
+msgid "IDS_PRSC558"
+msgstr "德米特里•波扎尔斯基"
+
+msgid "IDS_PRSC970"
+msgstr "伊凡•卡利塔"
+
+msgid "IDS_PSSC102"
+msgstr "门德斯•努涅斯"
+
+msgid "IDS_PSSD510"
+msgstr "阿尔瓦罗•德•巴赞"
+
+msgid "IDS_PVSC103"
+msgstr "维森特•格雷罗"
+
+msgid "IDS_PVSC108"
+msgstr "伊格纳西奥•阿连德"
+
+msgid "IDS_PWSD104"
+msgstr "克拉斯•霍恩"
+
+msgid "IDS_PWSD209"
+msgstr "兰布罗斯•卡措尼斯"
