@@ -12,145 +12,136 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 
 msgid "IDS_PASA510"
-msgstr "罗斯福"
+msgstr "F.D.罗斯福"
 
 msgid "IDS_PASD111"
-msgstr "汉弗莱斯"
+msgstr "J.汉弗莱斯"
 
 msgid "IDS_PASD610"
-msgstr "谢尔曼"
+msgstr "F.谢尔曼"
 
 msgid "IDS_PFSC106"
-msgstr "加利索尼埃"
+msgstr "L.加利索尼埃"
 
 msgid "IDS_PFSC896"
-msgstr "[加利索尼埃]"
-
-msgid "IDS_PGSA108"
-msgstr "帕塞瓦尔"
-
-msgid "IDS_PGSA110"
-msgstr "里希特霍芬"
+msgstr "[L.加利索尼埃]"
 
 msgid "IDS_PGSA506"
-msgstr "勒文哈尔特"
+msgstr "E.勒文哈尔特"
 
 msgid "IDS_PGSA610"
-msgstr "殷麦曼"
+msgstr "M.殷麦曼"
 
 msgid "IDS_PGSB203"
-msgstr "坦恩"
+msgstr "V.坦恩"
 
 msgid "IDS_PGSB506"
-msgstr "弗里德里希"
+msgstr "P.E.弗里德里希"
 
 msgid "IDS_PGSD106"
-msgstr "盖德"
+msgstr "E.盖德"
 
 msgid "IDS_PGSD107"
-msgstr "马斯"
+msgstr "L.马斯"
 
 msgid "IDS_PGSD111"
-msgstr "韦迪根"
-
-msgid "IDS_PGSD208"
-msgstr "梅克尔"
+msgstr "O.韦迪根"
 
 msgid "IDS_PGSD209"
-msgstr "舒尔茨"
+msgstr "F.舒尔茨"
 
 msgid "IDS_PGSD516"
-msgstr "勋伯格"
+msgstr "K.勋伯格"
 
 msgid "IDS_PHSC101"
-msgstr "金斯伯根"
+msgstr "V.金斯伯根"
 
 msgid "IDS_PHSC104"
-msgstr "鲁伊特"
+msgstr "M.鲁伊特"
 
 msgid "IDS_PHSC109"
-msgstr "维特"
+msgstr "J.维特"
 
 msgid "IDS_PHSC509"
-msgstr "斯佩克"
+msgstr "V.斯佩克"
 
 msgid "IDS_PISB106"
-msgstr "多里亚"
+msgstr "A.多里亚"
 
 msgid "IDS_PISB107"
-msgstr "卡拉乔洛"
+msgstr "F.卡拉乔洛"
 
 msgid "IDS_PISB108"
-msgstr "维内托"
+msgstr "V.维内托"
 
 msgid "IDS_PISB110"
-msgstr "哥伦布"
+msgstr "C.哥伦布"
 
 msgid "IDS_PISB505"
-msgstr "恺撒"
+msgstr "G.恺撒"
 
 msgid "IDS_PISB510"
-msgstr "劳里亚"
+msgstr "R.劳里亚"
 
 msgid "IDS_PISB519"
-msgstr "威尔第"
+msgstr "G.威尔第"
 
 msgid "IDS_PISC102"
-msgstr "比西奥"
+msgstr "N.比西奥"
 
 msgid "IDS_PISC104"
-msgstr "朱桑诺"
+msgstr "A.朱桑诺"
 
 msgid "IDS_PISC105"
-msgstr "蒙德库克利"
+msgstr "L.蒙德库克利"
 
 msgid "IDS_PISC517"
-msgstr "费鲁乔"
+msgstr "F.费鲁乔"
 
 msgid "IDS_PISD103"
-msgstr "萨乌罗"
+msgstr "N.萨乌罗"
 
 msgid "IDS_PISD107"
-msgstr "塔里戈"
+msgstr "L.塔里戈"
 
 msgid "IDS_PISD108"
-msgstr "库尼贝尔蒂"
+msgstr "V.库尼贝尔蒂"
 
 msgid "IDS_PISD110"
-msgstr "莱戈洛"
+msgstr "A.莱戈洛"
 
 msgid "IDS_PRSC109"
-msgstr "顿斯科伊"
+msgstr "DM.顿斯科伊"
 
 msgid "IDS_PRSC210"
-msgstr "涅夫斯基"
+msgstr "AL.涅夫斯基"
 
 msgid "IDS_PRSC508"
-msgstr "库图佐夫"
+msgstr "M.库图佐夫"
 
 msgid "IDS_PRSC538"
-msgstr "巴格拉季昂"
+msgstr "P.巴格拉季昂"
 
 msgid "IDS_PRSC558"
-msgstr "波扎尔斯基"
+msgstr "D.波扎尔斯基"
 
 msgid "IDS_PRSC970"
-msgstr "卡利塔"
+msgstr "I.卡利塔"
 
 msgid "IDS_PSSC102"
-msgstr "努涅斯"
+msgstr "M.努涅斯"
 
 msgid "IDS_PSSD510"
-msgstr "巴赞"
+msgstr "A.巴赞"
 
 msgid "IDS_PVSC103"
-msgstr "格雷罗"
+msgstr "V.格雷罗"
 
 msgid "IDS_PVSC108"
-msgstr "阿连德"
+msgstr "I.阿连德"
 
 msgid "IDS_PWSD104"
-msgstr "霍恩"
+msgstr "K.霍恩"
 
 msgid "IDS_PWSD209"
-msgstr "卡措尼斯"
+msgstr "L.卡措尼斯"
