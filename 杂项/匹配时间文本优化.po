@@ -1,0 +1,47 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: BattleQueueTextEnhancement\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: LocalizedKorabli <localizedkorabli@outlook.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_IN_BRAWLBATTLE"
+msgstr "对决的等待时间"
+
+msgid "IDS_IN_CLANBATTLE"
+msgstr "军团战的等待时间"
+
+msgid "IDS_IN_COOPERATIVEBATTLE"
+msgstr "联合作战的等待时间"
+
+msgid "IDS_IN_EVENTBATTLE"
+msgstr "巨战的等待时间"
+
+msgid "IDS_IN_PCVE020"
+msgstr "非对称战斗的等待时间"
+
+msgid "IDS_IN_PCVE022"
+msgstr "“追求卓越”比赛的等待时间"
+
+msgid "IDS_IN_PCVE026"
+msgstr "隐蔽机动战的等待时间"
+
+msgid "IDS_IN_PVEBATTLE"
+msgstr "行动的等待时间"
+
+msgid "IDS_IN_RANDOMBATTLE"
+msgstr "随机战的等待时间"
+
+msgid "IDS_IN_RANKEDBATTLE"
+msgstr "排位战的等待时间"
+
+msgid "IDS_MAX_WAITING_IN_BATTLE_TYPE"
+msgstr " "
