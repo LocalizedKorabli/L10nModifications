@@ -14,37 +14,40 @@ msgstr ""
 "X-Generator: Poedit 3.5\n"
 
 msgid "IDS_IN_BRAWLBATTLE"
-msgstr "对决的等待时间"
+msgstr "对决的匹配时间"
 
 msgid "IDS_IN_CLANBATTLE"
-msgstr "军团战的等待时间"
+msgstr "军团战的匹配时间"
 
 msgid "IDS_IN_COOPERATIVEBATTLE"
-msgstr "联合作战的等待时间"
+msgstr "联合作战的匹配时间"
 
 msgid "IDS_IN_EVENTBATTLE"
-msgstr "巨战的等待时间"
+msgstr "巨战的匹配时间"
 
 msgid "IDS_IN_PCVE020"
-msgstr "非对称战斗的等待时间"
+msgstr "非对称战斗的匹配时间"
 
 msgid "IDS_IN_PCVE022"
-msgstr "“追求卓越”比赛的等待时间"
+msgstr "“追求卓越”比赛的匹配时间"
 
 msgid "IDS_IN_PCVE023"
-msgstr "非对称战斗的等待时间"
+msgstr "非对称战斗的匹配时间"
 
 msgid "IDS_IN_PCVE026"
-msgstr "隐蔽机动战的等待时间"
+msgstr "隐蔽机动战的匹配时间"
+
+msgid "IDS_IN_PCVE027"
+msgstr "铁甲舰时代模式的匹配时间"
 
 msgid "IDS_IN_PVEBATTLE"
-msgstr "行动的等待时间"
+msgstr "行动的匹配时间"
 
 msgid "IDS_IN_RANDOMBATTLE"
-msgstr "随机战的等待时间"
+msgstr "随机战的匹配时间"
 
 msgid "IDS_IN_RANKEDBATTLE"
-msgstr "排位战的等待时间"
+msgstr "排位战的匹配时间"
 
 msgid "IDS_MAX_WAITING_IN_BATTLE_TYPE"
 msgstr " "
