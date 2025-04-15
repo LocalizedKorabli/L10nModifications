@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Last-Translator: \n"
 "Language-Team: \n"
-"Language: zh\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "IDS_PASA510"
 msgstr "F.D.罗斯福"
@@ -20,14 +21,17 @@ msgstr "J.汉弗莱斯"
 msgid "IDS_PASD610"
 msgstr "F.谢尔曼"
 
-msgid "IDS_PFSC106"
-msgstr "L.加利索尼埃"
+msgid "IDS_PGSA108"
+msgstr "A.帕塞瓦尔"
 
-msgid "IDS_PFSC896"
-msgstr "[L.加利索尼埃]"
+msgid "IDS_PGSA110"
+msgstr "M.里希特霍芬"
 
 msgid "IDS_PGSA506"
 msgstr "E.勒文哈尔特"
+
+msgid "IDS_PGSA510"
+msgstr "W.沃斯"
 
 msgid "IDS_PGSA610"
 msgstr "M.殷麦曼"
@@ -36,7 +40,7 @@ msgid "IDS_PGSB203"
 msgstr "V.坦恩"
 
 msgid "IDS_PGSB506"
-msgstr "P.E.弗里德里希"
+msgstr "E.弗里德里希"
 
 msgid "IDS_PGSD106"
 msgstr "E.盖德"
@@ -65,6 +69,9 @@ msgstr "J.维特"
 msgid "IDS_PHSC509"
 msgstr "V.斯佩克"
 
+msgid "IDS_PISB104"
+msgstr "但丁"
+
 msgid "IDS_PISB106"
 msgstr "A.多里亚"
 
@@ -86,6 +93,9 @@ msgstr "R.劳里亚"
 msgid "IDS_PISB519"
 msgstr "G.威尔第"
 
+msgid "IDS_PISB805"
+msgstr "J.布鲁图斯"
+
 msgid "IDS_PISC102"
 msgstr "N.比西奥"
 
@@ -93,7 +103,7 @@ msgid "IDS_PISC104"
 msgstr "A.朱桑诺"
 
 msgid "IDS_PISC105"
-msgstr "L.蒙德库克利"
+msgstr "R.蒙德库克利"
 
 msgid "IDS_PISC517"
 msgstr "F.费鲁乔"
@@ -110,17 +120,29 @@ msgstr "V.库尼贝尔蒂"
 msgid "IDS_PISD110"
 msgstr "A.莱戈洛"
 
+msgid "IDS_PISD509"
+msgstr "P.埃米利奥"
+
+msgid "IDS_PISS508"
+msgstr "G.纳尼"
+
 msgid "IDS_PRSC109"
 msgstr "DM.顿斯科伊"
 
 msgid "IDS_PRSC210"
-msgstr "AL.涅夫斯基"
+msgstr "A.涅夫斯基"
 
 msgid "IDS_PRSC508"
 msgstr "M.库图佐夫"
 
 msgid "IDS_PRSC538"
 msgstr "P.巴格拉季昂"
+
+msgid "IDS_PRSC539"
+msgstr "Y.多尔戈鲁基"
+
+msgid "IDS_PRSC548"
+msgstr "P.巴格拉季昂*"
 
 msgid "IDS_PRSC558"
 msgstr "D.波扎尔斯基"
@@ -139,6 +161,12 @@ msgstr "V.格雷罗"
 
 msgid "IDS_PVSC108"
 msgstr "I.阿连德"
+
+msgid "IDS_PVSC509"
+msgstr "F.米兰达"
+
+msgid "IDS_PWSB509"
+msgstr "K.约翰"
 
 msgid "IDS_PWSD104"
 msgstr "K.霍恩"

@@ -1,0 +1,127 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_PASB507"
+msgstr "西弗吉尼亚’41"
+
+msgid "IDS_PASB507_FULL"
+msgstr "西弗吉尼亚’41"
+
+msgid "IDS_PASB527"
+msgstr "西弗吉尼亚’44"
+
+msgid "IDS_PASB527_FULL"
+msgstr "西弗吉尼亚’44"
+
+msgid "IDS_PASC039"
+msgstr "彭萨科拉’30"
+
+msgid "IDS_PASC039_FULL"
+msgstr "彭萨科拉’30"
+
+msgid "IDS_PAUH510_WVIRGINIA"
+msgstr "西弗吉尼亚’41"
+
+msgid "IDS_PAUH615_WVIRGINIA_44"
+msgstr "西弗吉尼亚’44"
+
+msgid "IDS_PBSB547"
+msgstr "声望’44"
+
+msgid "IDS_PBSB547_FULL"
+msgstr "声望’44"
+
+msgid "IDS_PBSC518"
+msgstr "虎’59"
+
+msgid "IDS_PBSC518_FULL"
+msgstr "虎’59"
+
+msgid "IDS_PBSC528"
+msgstr "贝尔法斯特’43"
+
+msgid "IDS_PBSC528_FULL"
+msgstr "贝尔法斯特’43"
+
+msgid "IDS_PBSC918_DESCR"
+msgstr "虎’59的复制品，用于测试主炮弹鼓式射击机制。"
+
+msgid "IDS_PBUH609_B7_HULL_RENOWN"
+msgstr "声望’44"
+
+msgid "IDS_PBUH714_BELFAST2"
+msgstr "贝尔法斯特’43"
+
+msgid "IDS_PBUH716_TIGER59"
+msgstr "虎’59"
+
+msgid "IDS_PCEE363_BELFAST_43_FLAG"
+msgstr "HMS贝尔法斯特’43"
+
+msgid "IDS_PCEE588_TASHKENT_1941_FLAG"
+msgstr "塔什干’39"
+
+msgid "IDS_PCEE595_WEST_VIRGINIA_1944_FLAG"
+msgstr "USS西弗吉尼亚’44"
+
+msgid "IDS_PCEE716_BLYSKAWICA_1963_FLAG"
+msgstr "闪电’63"
+
+msgid "IDS_PJSB502"
+msgstr "三笠’04"
+
+msgid "IDS_PJSB502_FULL"
+msgstr "三笠’04"
+
+msgid "IDS_PRSB502"
+msgstr "博罗季诺’04"
+
+msgid "IDS_PRSB502_FULL"
+msgstr "博罗季诺’04"
+
+msgid "IDS_PRSD517"
+msgstr "塔什干’39"
+
+msgid "IDS_PRSD517_FULL"
+msgstr "塔什干’39"
+
+msgid "IDS_PRUH607_TASHKENT39"
+msgstr "塔什干’39"
+
+msgid "IDS_PWSD518"
+msgstr "闪电’63"
+
+msgid "IDS_PWSD518_FULL"
+msgstr "闪电’63"
+
+msgid "IDS_PWUH706_HULL_BLYSKAWICA_63"
+msgstr "闪电’63"
+
+msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_TITLE"
+msgstr "“闪电’63”高级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_TITLE_SHORT"
+msgstr "闪电’63"
+
+msgid "IDS_SMF_MODERN_HARE"
+msgstr "兔’21"
+
+msgid "IDS_SMF_MODERN_WOLF"
+msgstr "狼’21"
+
+msgid "IDS_SOUND_MOD_SMF_SMF_MODERN_HARE"
+msgstr "兔’21"
+
+msgid "IDS_SOUND_MOD_SMF_SMF_MODERN_WOLF"
+msgstr "狼’21"

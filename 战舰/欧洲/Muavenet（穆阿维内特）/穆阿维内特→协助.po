@@ -1,0 +1,28 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_PWSD205"
+msgstr "协助"
+
+msgid "IDS_PWSD205_DESCR"
+msgstr "1938年，土耳其向英国订购了4艘最新的I级战舰。然而，包括协助号在内的其中两艘在二战爆发时被英国买走。协助号更名为HMS无常号，开始在本土舰队服役。之后被移交给东方舰队，参加了围绕马达加斯加的两栖行动。在1942年夏季，此战舰随队前往马耳他。后来，它在大西洋作战，同期还负责护送北行船团，并为诺曼底登陆提供掩护。1946年，该舰被归还给土耳其，并再次被命名为协助号，以纪念驱逐舰协助-伊米利耶号，该舰在一战的加里波利战役期间击沉英国战列舰哥利亚号。"
+
+msgid "IDS_PWSD205_FULL"
+msgstr "协助"
+
+msgid "IDS_PWUH403_D5_HULL_STOCK"
+msgstr "协助(A)"
+
+msgid "IDS_PWUH404_D5_HULL_TOP"
+msgstr "协助(B)"

@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "IDS_PASA510"
 msgstr "罗斯福"
@@ -20,12 +21,6 @@ msgstr "汉弗莱斯"
 msgid "IDS_PASD610"
 msgstr "谢尔曼"
 
-msgid "IDS_PFSC106"
-msgstr "加利索尼埃"
-
-msgid "IDS_PFSC896"
-msgstr "[加利索尼埃]"
-
 msgid "IDS_PGSA108"
 msgstr "帕塞瓦尔"
 
@@ -34,6 +29,9 @@ msgstr "里希特霍芬"
 
 msgid "IDS_PGSA506"
 msgstr "勒文哈尔特"
+
+msgid "IDS_PGSA510"
+msgstr "沃斯"
 
 msgid "IDS_PGSA610"
 msgstr "殷麦曼"
@@ -53,9 +51,6 @@ msgstr "马斯"
 msgid "IDS_PGSD111"
 msgstr "韦迪根"
 
-msgid "IDS_PGSD208"
-msgstr "梅克尔"
-
 msgid "IDS_PGSD209"
 msgstr "舒尔茨"
 
@@ -74,8 +69,14 @@ msgstr "维特"
 msgid "IDS_PHSC509"
 msgstr "斯佩克"
 
+msgid "IDS_PISB104"
+msgstr "但丁"
+
 msgid "IDS_PISB106"
 msgstr "多里亚"
+
+msgid "IDS_PISB107"
+msgstr "卡拉乔洛"
 
 msgid "IDS_PISB108"
 msgstr "维内托"
@@ -92,8 +93,17 @@ msgstr "劳里亚"
 msgid "IDS_PISB519"
 msgstr "威尔第"
 
+msgid "IDS_PISB805"
+msgstr "布鲁图斯"
+
 msgid "IDS_PISC102"
 msgstr "比西奥"
+
+msgid "IDS_PISC104"
+msgstr "朱桑诺"
+
+msgid "IDS_PISC105"
+msgstr "蒙德库克利"
 
 msgid "IDS_PISC517"
 msgstr "费鲁乔"
@@ -104,8 +114,17 @@ msgstr "萨乌罗"
 msgid "IDS_PISD107"
 msgstr "塔里戈"
 
+msgid "IDS_PISD108"
+msgstr "库尼贝尔蒂"
+
 msgid "IDS_PISD110"
 msgstr "莱戈洛"
+
+msgid "IDS_PISD509"
+msgstr "埃米利奥"
+
+msgid "IDS_PISS508"
+msgstr "纳尼"
 
 msgid "IDS_PRSC109"
 msgstr "顿斯科伊"
@@ -118,6 +137,15 @@ msgstr "库图佐夫"
 
 msgid "IDS_PRSC538"
 msgstr "巴格拉季昂"
+
+msgid "IDS_PRSC539"
+msgstr "多尔戈鲁基"
+
+msgid "IDS_PRSC548"
+msgstr "巴格拉季昂*"
+
+msgid "IDS_PRSC558"
+msgstr "波扎尔斯基"
 
 msgid "IDS_PRSC970"
 msgstr "卡利塔"
@@ -133,6 +161,12 @@ msgstr "格雷罗"
 
 msgid "IDS_PVSC108"
 msgstr "阿连德"
+
+msgid "IDS_PVSC509"
+msgstr "米兰达"
+
+msgid "IDS_PWSB509"
+msgstr "约翰"
 
 msgid "IDS_PWSD104"
 msgstr "霍恩"

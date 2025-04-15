@@ -1,0 +1,156 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DECISIVE_CONTRIBUTION"
+msgstr "加入小队在一场统治类别的战斗中获得至少%(dominationPoints)s点并获胜。所有小队战舰必须在战斗中存活。"
+
+msgid "IDS_GAMEMODE_AWESOME_TITLE"
+msgstr "统治"
+
+msgid "IDS_GAMEMODE_DOMINATION_TITLE"
+msgstr "统治"
+
+msgid "IDS_LOADING_TOOLTIP_LEVEL3_29"
+msgstr "在统治战斗类别中，派出我方驱逐舰去占领区域并利用战列舰来巡逻领海。"
+
+msgid "IDS_LOADING_TOOLTIP_LEVEL4_27"
+msgstr "在统治战斗类别中，派出我方驱逐舰去占领区域并利用战列舰来巡逻领海。"
+
+msgid "IDS_MODAL_WINDOW_PCVE021_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "战斗皆采用统治类别。"
+
+msgid "IDS_PCVE021_MATCHMAKER_DESCRIPTION"
+msgstr "在随机地图上采用统治类别。"
+
+msgid "IDS_SCENARIO_ASYMM_3POINT_COOP"
+msgstr "非对称作战 — 统治"
+
+msgid "IDS_SCENARIO_CVC_DOMINATION"
+msgstr "军团 — 统治"
+
+msgid "IDS_SCENARIO_CVC_DOMINATION_ALT"
+msgstr "军团战 — 统治 — 备选模式"
+
+msgid "IDS_SCENARIO_CVC_DOMINATION_BRAWL_ALT"
+msgstr "对决 — 统治 — 备选模式"
+
+msgid "IDS_SCENARIO_CVC_DOMINATION_OBSERV0"
+msgstr "军团 — 统治 — 比赛"
+
+msgid "IDS_SCENARIO_DEFAULTDOMINATION"
+msgstr "标准战 — 统治"
+
+msgid "IDS_SCENARIO_DE_FIGHTER_RESPAWN_DOMINATION"
+msgstr "铁甲舰时代 — 统治"
+
+msgid "IDS_SCENARIO_DOMINATION_3POINT"
+msgstr "统治"
+
+msgid "IDS_SCENARIO_DOMINATION_3POINT_ASYMM"
+msgstr "统治 — 三区域 — 非对称作战"
+
+msgid "IDS_SCENARIO_DOMINATION_3POINT_BRAWL"
+msgstr "对决 — 统治"
+
+msgid "IDS_SCENARIO_DOMINATION_3POINT_COOP"
+msgstr "统治 — 联合作战"
+
+msgid "IDS_SCENARIO_DOMINATION_3POINT_REVISED"
+msgstr "统治 — 备选模式"
+
+msgid "IDS_SCENARIO_DOMINATION_3POINT_REVISED_COOP"
+msgstr "统治 — 联合作战 — 备选模式"
+
+msgid "IDS_SCENARIO_DOMINATION_3_BASES"
+msgstr "统治 — 三区域"
+
+msgid "IDS_SCENARIO_DOMINATION_4POINT"
+msgstr "统治 — 四区域"
+
+msgid "IDS_SCENARIO_DOMINATION_4POINT_COOP"
+msgstr "统治 — 四区域 — 联合作战"
+
+msgid "IDS_SCENARIO_DOMINATION_4POINT_ROMB"
+msgstr "统治 — 四区域 — 备选"
+
+msgid "IDS_SCENARIO_DOMINATION_4POINT_ROMB_COOP"
+msgstr "统治 — 联合作战 — 四区域 — 备选"
+
+msgid "IDS_SCENARIO_DOMINATION_4_BASES"
+msgstr "统治 — 四区域"
+
+msgid "IDS_SCENARIO_DOMINATION_EVENT"
+msgstr "统治"
+
+msgid "IDS_SCENARIO_DOMINATION_LOCALWEATHER_3POINT"
+msgstr "统治 — 当地天气"
+
+msgid "IDS_SCENARIO_DOMINATION_LOCALWEATHER_3POINT_COOP"
+msgstr "统治 — 联合作战 — 当地天气"
+
+msgid "IDS_SCENARIO_DOMINATION_LOCALWEATHER_4POINT"
+msgstr "统治 — 本地天气 — 四区域"
+
+msgid "IDS_SCENARIO_DOMINATION_LOCALWEATHER_4POINT_COOP"
+msgstr "统治 — 联合作战 — 四区域"
+
+msgid "IDS_SCENARIO_DOMINATION_RANK_OBSERV0"
+msgstr "排位战 — 统治"
+
+msgid "IDS_SCENARIO_DOMINATION_SPECIAL"
+msgstr "对决 — 统治 — 终点"
+
+msgid "IDS_SCENARIO_DOMINATION_SPECIAL_TOURNAMENT"
+msgstr "统治 — 终点 — 比赛"
+
+msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_3POINT"
+msgstr "比赛 — 统治"
+
+msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_3POINTS_OBSERV0"
+msgstr "比赛 — 统治"
+
+msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_3POINT_ALT"
+msgstr "比赛 — 统治 — 备选"
+
+msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_4POINT"
+msgstr "比赛 — 统治 — 四区域"
+
+msgid "IDS_SCENARIO_DOMINATION_ZIGZAG"
+msgstr "统治 — 之字形"
+
+msgid "IDS_SCENARIO_NATIONAL_BATTLES"
+msgstr "轴心国vs同盟国 — 统治"
+
+msgid "IDS_SCENARIO_RANKED_DOMINATION"
+msgstr "排位战 — 统治"
+
+msgid "IDS_SCENARIO_RANKED_DOMINATION_1_BASE"
+msgstr "排位战 — 统治 — 单基地"
+
+msgid "IDS_SCENARIO_RANKED_DOMINATION_ALT"
+msgstr "排位战 — 统治 — 备选模式"
+
+msgid "IDS_SCENARIO_SKIRMISH_DOMINATION_3_BASES"
+msgstr "统治 — 三区域 — 联合作战"
+
+msgid "IDS_SCENARIO_SKIRMISH_DOMINATION_LOCALWEATHER"
+msgstr "统治 — 当地天气 — 联合作战"
+
+msgid "IDS_SCENARIO_SKIRMISH_DOMINATION_ZIGZAG"
+msgstr "统治 — 之字形 — 联合作战"
+
+msgid "IDS_SPACES/00_DOMINATION_TEST_DESCR"
+msgstr ""
+"测试地图。\n"
+"用来测试统治模式。"
